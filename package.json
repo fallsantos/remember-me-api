@@ -1,0 +1,23 @@
+{
+  "name": "remember-me-api",
+  "version": "1.0.0",
+  "description": "Backend para uma aplicação mobile de lista de tarefas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallsantos/remember-me-api.git"
+  },
+  "keywords": [
+    "api",
+    "tasks"
+  ],
+  "author": "Flávio Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fallsantos/remember-me-api/issues"
+  },
+  "homepage": "https://github.com/fallsantos/remember-me-api#readme"
+}
